@@ -1,0 +1,18 @@
+a=10
+if a<=12:
+ 	 print('a is less than 12')
+ 	 print('Hi.......')
+ 	 
+ 	 Expected output:
+ 	    
+ 	  a is less than 12
+Hi.......
+
+[Program finished]
+
+your output:
+	
+a is less than 12
+Hi.......
+
+[Program finished]
