@@ -7,7 +7,7 @@ else :
 ''' 
 Expected output:
 	Enter person name : ram
-	Enter person age : 24
+	Enter person age :24
 	Eligible for vote  '''
 	
 	'''
